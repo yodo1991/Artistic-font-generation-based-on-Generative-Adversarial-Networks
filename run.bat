@@ -1,0 +1,1 @@
+streamlit run appn.py --server.port 8508 --server.headless true
